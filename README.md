@@ -49,4 +49,4 @@
 <!-- [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com) -->
 
 <!-- Badges template - https://github.com/badges/shields -->
-<!-- [![Starred repositories](https://img.shields.io/github/stars/massimoselvi?color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=Stars)](https://github.com/massimoselvi?tab=repositories&sort=stargazers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimoselvi/) -->
+<!-- [![Starred repositories](https://img.shields.io/github/stars/massimoselvi?color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=Stars)](https://github.com/massimoselvi?tab=**repositories**&sort=stargazers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massimoselvi/) -->
