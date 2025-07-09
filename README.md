@@ -1,4 +1,4 @@
-# Hi 👋 I'm Massimo Selvi [![Linkedin Badge](https://img.shields.io/badge/-MassimoSelvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/massimoselvi-2041a822b/)](https://www.linkedin.com/in/massimoselvi/)
+# Hi 👋, I'm Massimo Selvi [![Linkedin Badge](https://img.shields.io/badge/-Massimo_Selvi-blue?style=flat&logo=devbox&logoColor=white&link=https://www.linkedin.com/in/massimoselvi-2041a822b/)](https://www.linkedin.com/in/massimoselvi/)
 
 ## About me
 
