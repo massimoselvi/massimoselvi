@@ -16,17 +16,29 @@ mainly focused on AWS serverless services
 ## 👨‍💻 Languages and tools
 
 [![NodejS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](#NodejS) [![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?&style=flat&logo=typescript)](#TypeScript) [![NestJS](https://img.shields.io/badge/NestJS-232F3E?style=flat&logo=nestjs&logoColor=red)](https://nestjs.com) [![GraphQL](https://img.shields.io/badge/GraphQL-232F3E?style=flat&logo=graphql&logoColor=purple)](https://graphql.com)
+
 [![VueJS](https://shields.io/badge/vuejs-black?logo=vue.js&style=flat)](#VueJS) [![VueJS](https://shields.io/badge/Vite-black?logo=vite&style=flat)](#VueJS) [![vitess](https://img.shields.io/badge/vitesse-232F3E?style=flat&logo=vitess&logoColor=white)](https://vitesse.com) [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](#TailwindCSS)
+
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=flat&logo=laravel&logoColor=white)](#Laravel) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white)](#PHP)
+
 [![Swift](https://img.shields.io/badge/Swift-232F3E?style=flat&logo=swift&logoColor=#F05138)](#Swift)
+
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#HTML) [![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white)](#CSS) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)](#JavaScript)
+
 [![rdbms](https://img.shields.io/badge/RDBMS-232F3E?style=flat&logo=rdbms&logoColor=white)](https://rdbms.com) [![sqlite](https://img.shields.io/badge/sqlite-232F3E?style=flat&logo=sqlite&logoColor=white)](https://sqlite.com) [![mysql](https://img.shields.io/badge/mysql-232F3E?style=flat&logo=mysql&logoColor=white)](https://mysql.com) [![postgresql](https://img.shields.io/badge/postgresql-232F3E?style=flat&logo=postgresql&logoColor=white)](https://postgresql.com)
+
 [![nosql](https://img.shields.io/badge/NOSQL-232F3E?style=flat&logo=nosql&logoColor=white)](https://nosql.com) [![dynamodb](https://img.shields.io/badge/dynamodb-232F3E?style=flat&logo=amazon-dynamodb&logoColor=white)](https://dynamodb.com) [![mongodb](https://img.shields.io/badge/mongodb-232F3E?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com) [![redis](https://img.shields.io/badge/redis-232F3E?style=flat&logo=redis&logoColor=white)](https://nosql.com)
+
 [![AWS CDK](https://img.shields.io/badge/AWS-CDK-232F3E?style=flat&logo=devbox&logoColor=white)](https://aws.amazon.com/cdk/) [![AWS CDK](https://img.shields.io/badge/AWS-CloudFormation-232F3E?style=flat&logo=aws&logoColor=white)](https://aws.amazon.com/cloudformation/) [![Terraform](https://img.shields.io/badge/Terraform-232F3E?style=flat&logo=terraform&logoColor=white)](https://terraform.io)
+
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=flat&logo=docker&logoColor=white)](#Docker)
+
 [![pnpm](https://img.shields.io/badge/pnpm-232F3E?style=flat&logo=pnpm&logoColor=white)](https://pnpm.io) [![yarn](https://img.shields.io/badge/yarn-232F3E?style=flat&logo=yarn&logoColor=white)](https://yarnpkg.com) [![npm](https://img.shields.io/badge/npm-232F3E?style=flat&logo=npm&logoColor=white)](https://npmjs.com) [![Bun](https://img.shields.io/badge/Bun-232F3E?style=flat&logo=bun&logoColor=white)](https://bun.sh)
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white)](#GitHub) [![githubactions](https://img.shields.io/badge/GitHub-actions-%2322A7F0.svg?&style=flat&logo=githubactions&logoColor=white)](#githubactions)
+
 [![AWS](https://img.shields.io/badge/AWS-Landing_Zone-232F3E?style=flat&logo=easyeda&color=orange&logoColor=orange)](https://aws.amazon.com/)
+
 [![Agile](https://img.shields.io/badge/agile-232F3E?style=flat&logo=xyflow&logoColor=white)](#Agile) [![Scrum](https://img.shields.io/badge/scrum-232F3E?style=flat&logo=spring_creators&logoColor=white)](#Scrum) [![Kanban](https://img.shields.io/badge/kanban-232F3E?style=flat&logo=trello&logoColor=white)](#Kanban)
 
 <!--- [![Kotlin](https://img.shields.io/badge/Kotlin-232F3E?style=flat&logo=kotlin&logoColor=white)](#Kotlin) -->
