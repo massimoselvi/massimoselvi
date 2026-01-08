@@ -1,0 +1,12 @@
+I’m a passionate IT engineer specializing in cloud architectures, with extensive expertise in designing and implementing AWS cloud solutions.
+My 20+ years in full-stack development are complemented by significant experience in serverless architecture, Event-Driven Architecture (EDA), microservices, and modular monoliths. I bring 12 years of experience with the Laravel PHP framework, 8 years with NodeJS/TypeScript, and 6 years configuring and managing cloud multi-account/multi-environment infrastructures.
+As a Software Developer with strong TDD practice, I'm deeply aware of the entire Software Development Life Cycle (SDLC) and committed to enhancing Developer Experience (DX) at every level.
+I've primarily focused on R&D, cloud infrastructure design, distributed software design, automated tests and deployments, alongside regular code development using modern programming languages such as TypeScript, Go and PHP.
+I’ve designed migration solutions from legacy codebases and monolithic architectures to modern AWS serverless architectures. Infrastructure-as-Code (CloudFormation and CDK) and automation are at the core.
+My development practices encompass OOP, MVC, Design Patterns, DDD, ORM, Migrations, Unit Tests, Queues, CLI, and REPL.
+Through self-education and a non-conventional career path, I have cultivated a unique approach to problem-solving. When conventional technology literature proves inadequate, I embrace an unconventional mindset, actively seeking innovative solutions and embracing novel challenges.
+I'm a team player, active listener, eager to learn, and happy to share knowledge, always supportive of others. I adopt and promote Agile methodologies, SCRUM ceremonies, and XP practices such as pair programming and mob programming.
+I adhere daily to principles like LESS IS MORE, K.I.S.S., SOLID, DRY, YAGNI, Clean Code, and 12-Factor App, applying them even in small areas.
+Day-to-day work tools: GIT (with GIT-FLOW branching or TRUNK-based development), Docker, VSCode, Xcode, and Vim.
+Born and raised in Forlì, Italy, I currently reside in Ravenna. As a devoted father of two beautiful daughters, I am fortunate to have them living independently. While I am currently employed in a fulfilling position, I approach the future with optimism and a keen interest in new opportunities.
+No individual is flawless, including myself. My primary objective is to maintain focus on my objectives and cultivate the requisite composure to attain them, even in the face of demanding deadlines.
