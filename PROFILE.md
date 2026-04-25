@@ -2,21 +2,23 @@
 
 ## LinkedIn About
 
-I am a **passionate IT Engineer and Cloud Architect** with over 20 years of experience in full-stack development, specializing in **AWS Serverless architectures**, Event-Driven Architecture (EDA), microservices, and modular monoliths. My expertise includes **12 years with Laravel**, **8 years with NodeJS/TypeScript**—leveraging modern frameworks like **NestJS and ElysiaJS (Bun)**—and 6 years managing multi-account/multi-environment cloud infrastructures.
+I am a **passionate IT Engineer, Cloud Architect, and Tech Advisor** with 20+ years of full-stack experience, specializing in **AWS Serverless architectures**, Event-Driven Architecture (EDA), microservices, and modular monoliths. My expertise spans **13 years with Laravel**, **9 with NodeJS/TypeScript**—NestJS and recently ElysiaJS (Bun)—and 7 years managing multi-account/multi-environment **cloud infrastructures**.
 
-As a developer focused on **Test-Driven Development (TDD)** and **Developer Experience (DX)**, I advocate for **monorepo codebases (TurboRepo, pnpm workspaces)** to streamline workflows and maintain consistency across intricate, distributed projects.
+Currently serving as **Tech Advisor at 'f.technology' – Technology Made Easy**, I lead engineering growth with a focused mandate: driving **AI-augmented SDLC adoption**, aligning development teams with the current evolution of AI-assisted software development, and acting as **Engineering Manager** to elevate team performance and culture.
 
-My primary focus lies in R&D, cloud infrastructure design, and automated deployments using **TypeScript, Go, Swift, and PHP**. I have a proven track record of designing migration solutions from legacy codebases to modern AWS serverless environments, with **Infrastructure-as-Code (CDK/CloudFormation)** and automation at the core. I leverage **GitHub Actions** to establish resilient, high-performing CI/CD pipelines.
+As a **TDD practitioner** committed to **Developer Experience (DX)**, I design monorepo architectures (TurboRepo, pnpm workspaces) that scale across distributed teams and complex distributed projects.
 
-My technical practice is rooted in **OOP, Dependency Injection, Design Patterns, and Domain-Driven Design (DDD)**. Having followed an unconventional, self-taught career trajectory, I bring a distinctive, "out-of-the-box" approach to problem-solving, identifying innovative solutions where conventional literature may fall short.
+My R&D focus spans **TypeScript, Go, Swift**, with a track record of migrating legacy systems to modern AWS Serverless environments using **Infrastructure-as-Code (CDK/CloudFormation)** and resilient **GitHub Actions** CI/CD pipelines.
 
-As a **collaborative servant leader**, I am dedicated to empowering my team through empathy, active listening, and the promotion of Agile/XP practices, including **Scrum, pair programming, and mob programming**. I operate at a **C1/C2 English level**, enabling seamless communication in diverse international environments.
+My technical practice is grounded in **OOP, Design Patterns and DDD**. Self-taught and unconventional by nature, I consistently identify solutions where standard playbooks fall short.
 
-I adhere daily to principles including **K.I.S.S., SOLID, DRY, YAGNI, Clean Code, and the 12-Factor App.**
+As a **collaborative servant leader**, I empower teams through empathy, active listening, pair and mob programming, and Agile/XP practices. I operate at **C1/C2 English**, enabling seamless communication across international environments.
+
+Daily principles: **K.I.S.S. · SOLID · DRY · YAGNI · Clean Code · 12-Factor App**
 
 **Core Toolset:**
 
 * **VCS/CI:** Git (Git-Flow/Trunk), GitHub Actions
-* **Dev:** Docker, TurboRepo, VSCode, Xcode, Vim
+* **Dev:** Docker, TurboRepo, Nx, VSCode, Xcode, Vim
 
-Based in Ravenna, Italy, and a devoted father of two, I approach the future with optimism and a keen interest in new challenges. I pride myself on maintaining composure and focus to achieve goals, even in the face of demanding deadlines.
+Based in Ravenna, Italy — a devoted father of two, driven by optimism, composure, and a bias for elegant solutions over clever ones.
