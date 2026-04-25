@@ -4,9 +4,9 @@
 
 Sono un **appassionato Cloud Architect, Software Engineer e Tech Advisor** con oltre 20 anni di esperienza full-stack, specializzato in **architetture AWS Serverless**, Event-Driven Architecture (EDA), microservizi e monoliti modulari. La mia esperienza abbraccia **9 anni con NodeJS/TypeScript** _(NestJS/Node e recentemente ElysiaJS/Bun)_, **13 con Laravel/PHP** e 7 anni di gestione di **infrastrutture cloud** multi-account/multi-environment.
 
-Attualmente ricopro il ruolo di **Tech Advisor presso 'f.technology' – Technology Made Easy**, dove guido la crescita ingegneristica con un mandato preciso: promuovere l'**adozione dell'AI-augmented SDLC**, allineare i team di sviluppo con l'attuale evoluzione degli strumenti AI per lo sviluppo software, e agire da **Engineering Manager** per elevare performance e cultura del team.
+Attualmente ricopro il ruolo di **Tech Advisor presso 'f.technology' – Technology Made Easy**, dove partecipo alla crescita ingegneristica con un mandato preciso: promuovere l'**adozione dell'AI-augmented SDLC**, allineare i team di sviluppo con l'attuale evoluzione degli strumenti AI per lo sviluppo software, e agire da **Engineering Manager** per elevare performance e cultura del team.
 
-Come **sostenitore del TDD** impegnato nella migliorare la **Developer Experience (DX)**, progetto architetture monorepo (TurboRepo, pnpm workspaces) che scalano su team distribuiti e progetti complessi.
+Come **sostenitore del TDD** impegnato nel migliorare la **Developer Experience (DX)**, progetto architetture monorepo (TurboRepo, pnpm workspaces) che scalano su team distribuiti e progetti complessi. Promuovo la documentazione "viva" tramite **ADR e RFC**, mantenendo le decisioni architetturali trasparenti, tracciabili e allineate con l'evoluzione del codebase.
 
 Il mio focus R&D abbraccia **TypeScript, Go, Swift**, con un track record nella migrazione di sistemi legacy verso ambienti AWS Serverless moderni tramite **Infrastructure-as-Code (CDK/CloudFormation)** e pipeline CI/CD resilienti con **GitHub Actions**.
 

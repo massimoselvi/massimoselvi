@@ -6,7 +6,7 @@ I am a **passionate IT Engineer, Cloud Architect, and Tech Advisor** with 20+ ye
 
 Currently serving as **Tech Advisor at 'f.technology' – Technology Made Easy**, I lead engineering growth with a focused mandate: driving **AI-augmented SDLC adoption**, aligning development teams with the current evolution of AI-assisted software development, and acting as **Engineering Manager** to elevate team performance and culture.
 
-As a **TDD practitioner** committed to **Developer Experience (DX)**, I design monorepo architectures (TurboRepo, pnpm workspaces) that scale across distributed teams and complex distributed projects.
+As a **TDD practitioner** committed to **Developer Experience (DX)**, I design monorepo architectures (TurboRepo, pnpm workspaces) that scale across distributed teams and complex distributed projects. I advocate for living documentation through **ADRs and RFCs**, keeping architectural decisions transparent, traceable, and aligned with the evolving codebase.
 
 My R&D focus spans **TypeScript, Go, Swift**, with a track record of migrating legacy systems to modern AWS Serverless environments using **Infrastructure-as-Code (CDK/CloudFormation)** and resilient **GitHub Actions** CI/CD pipelines.
 
