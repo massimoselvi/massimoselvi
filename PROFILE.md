@@ -2,7 +2,7 @@
 
 ## LinkedIn About
 
-I am a **passionate IT Engineer, Cloud Architect, and Tech Advisor** with 20+ years of full-stack experience, specializing in **AWS Serverless architectures**, Event-Driven Architecture (EDA), microservices, and modular monoliths. My expertise spans **13 years with Laravel**, **9 with NodeJS/TypeScript**—NestJS and recently ElysiaJS (Bun)—and 7 years managing multi-account/multi-environment **cloud infrastructures**.
+I am a **passionate IT Engineer, Cloud Architect, and Tech Advisor** with 20+ years of full-stack experience, specializing in **AWS Serverless architectures**, Event-Driven Architecture (EDA), microservices, and modular monoliths. My expertise spans **9 years with NodeJS/TypeScript** _(NestJS/Node and recently ElysiaJS/Bun)_, **13 with Laravel/PHP** and 7 years managing _multi-account/multi-environment_ **cloud infrastructures**.
 
 Currently serving as **Tech Advisor at 'f.technology' – Technology Made Easy**, I lead engineering growth with a focused mandate: driving **AI-augmented SDLC adoption**, aligning development teams with the current evolution of AI-assisted software development, and acting as **Engineering Manager** to elevate team performance and culture.
 
