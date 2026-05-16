@@ -9,6 +9,14 @@
 
 ---
 
+## LinkedIn Headline
+
+```text
+Cloud Architect · AWS Serverless · AI-augmented SDLC | Tech Advisor & EM @ f.technology | Open to senior roles & freelance
+```
+
+122 characters (limit: 220). Keywords-first order for ATS search ranking. Availability signal explicit at the end.
+
 ## Files touched
 
 - `PROFILE.md` — English canonical version
