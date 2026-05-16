@@ -2,23 +2,24 @@
 
 ## LinkedIn - Informazioni
 
-Sono un **appassionato Cloud Architect, Software Engineer e Tech Advisor** con oltre 20 anni di esperienza full-stack, specializzato in **architetture AWS Serverless**, Event-Driven Architecture (EDA), microservizi e monoliti modulari. La mia esperienza abbraccia **9 anni con NodeJS/TypeScript** _(NestJS/Node e recentemente ElysiaJS/Bun)_, **13 con Laravel/PHP** e 7 anni di gestione di **infrastrutture cloud** multi-account/multi-environment.
+🚀 **IT Engineer · Cloud Architect · Tech Advisor** — oltre 20 anni di esperienza full-stack, 10+ in team internazionali. Progetto e scala sistemi **AWS Serverless** specializzandomi in **Event-Driven Architecture (EDA)**, microservizi e monoliti modulari. Stack principale: **13 anni con Laravel/PHP**, **9 anni con NodeJS/TypeScript** (NestJS, ElysiaJS/Bun), 7 anni di gestione di infrastrutture cloud multi-account.
 
-Attualmente ricopro il ruolo di **Tech Advisor presso 'f.technology' – Technology Made Easy**, dove partecipo alla crescita ingegneristica con un mandato preciso: promuovere l'**adozione dell'AI-augmented SDLC**, allineare i team di sviluppo con l'attuale evoluzione degli strumenti AI per lo sviluppo software, e agire da **Engineering Manager** per elevare performance e cultura del team.
+💼 **Leadership Strategica e Crescita del Team**
+Attualmente **Tech Advisor per il Consiglio di Amministrazione** di *f.technology – Technology Made Easy*, faccio da ponte tra strategia di business ed esecuzione tecnica. Come **Engineering Manager**, guido la crescita del team, il mentoring e la cultura ingegneristica — con un mandato preciso sull'**adozione dell'AI-augmented SDLC** e sull'allineamento dei team con l'evoluzione degli strumenti di sviluppo AI.
 
-Come **sostenitore del TDD** impegnato nel migliorare la **Developer Experience (DX)**, progetto architetture monorepo (TurboRepo, pnpm workspaces) che scalano su team distribuiti e progetti complessi. Promuovo la documentazione "viva" tramite **ADR e RFC**, mantenendo le decisioni architetturali trasparenti, tracciabili e allineate con l'evoluzione del codebase.
+⚡ **Developer Experience e Qualità Ingegneristica**
+Sostenitore del **TDD**, della **DX** e della documentazione viva tramite **ADR e RFC** — mantenendo le decisioni architetturali trasparenti, tracciabili e allineate con il codebase. Progetto architetture monorepo (TurboRepo, Nx, pnpm workspaces) che scalano su team distribuiti.
 
-Il mio focus R&D abbraccia **TypeScript, Go, Swift**, con un track record nella migrazione di sistemi legacy verso ambienti AWS Serverless moderni tramite **Infrastructure-as-Code (CDK/CloudFormation)** e pipeline CI/CD resilienti con **GitHub Actions**.
+🏗️ **R&D, Cloud & Automation**
+Track record comprovato nella migrazione di sistemi legacy verso ambienti **AWS Serverless** moderni tramite **Infrastructure-as-Code (CDK/CloudFormation)** e pipeline CI/CD resilienti con **GitHub Actions**. Linguaggi: TypeScript, Go, Swift, PHP.
 
-La mia pratica tecnica è radicata in **OOP, Design Patterns e DDD**. Autodidatta e anticonvenzionale per natura, individuo costantemente soluzioni dove i playbook standard non bastano.
+🧭 **Filosofia Ingegneristica**
+Radicato in **OOP, Dependency Injection, Design Patterns e DDD**. Autodidatta e anticonvenzionale — individuo soluzioni dove i playbook standard non bastano. Servant leader: empatia, ascolto attivo, pair/mob programming. **Inglese C1/C2**.
 
-Come **servant leader collaborativo**, guido i team attraverso empatia, ascolto attivo, pair e mob programming, e pratiche Agile/XP. Uso fluentemente l'**inglese** (scritto/parlato), garantendo comunicazione efficace in contesti internazionali.
+📐 Principi quotidiani: **K.I.S.S. · SOLID · DRY · YAGNI · Clean Code · 12-Factor App**
 
-Principi quotidiani: **K.I.S.S. · SOLID · DRY · YAGNI · Clean Code · 12-Factor App**
+🛠️ **Core Toolset:**
+▪️ VCS/CI: Git (Git-Flow/Trunk), GitHub Actions
+▪️ Dev: Docker, TurboRepo, Nx, VSCode, Xcode, Vim
 
-**Core Toolset:**
-
-* **VCS/CI:** Git (Git-Flow/Trunk), GitHub Actions
-* **Dev:** Docker, TurboRepo, Nx, VSCode, Xcode, Vim
-
-Vivo a Ravenna — padre di due figlie, mosso da ottimismo, equilibrio e dalla convinzione che le soluzioni eleganti offrano più vantaggi di quelle puramente ingegnose.
+🇮🇹 Vivo a Ravenna — padre di due figlie. Aperto a ruoli senior e collaborazioni freelance in cloud architecture, sistemi serverless e leadership ingegneristica.
