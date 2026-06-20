@@ -1,12 +1,29 @@
-I’m a passionate IT engineer specializing in cloud architectures, with extensive expertise in designing and implementing AWS cloud solutions.
-My 20+ years in full-stack development are complemented by significant experience in serverless architecture, Event-Driven Architecture (EDA), microservices, and modular monoliths. I bring 12 years of experience with the Laravel PHP framework, 8 years with NodeJS/TypeScript, and 6 years configuring and managing cloud multi-account/multi-environment infrastructures.
-As a Software Developer with strong TDD practice, I'm deeply aware of the entire Software Development Life Cycle (SDLC) and committed to enhancing Developer Experience (DX) at every level.
-I've primarily focused on R&D, cloud infrastructure design, distributed software design, automated tests and deployments, alongside regular code development using modern programming languages such as TypeScript, Go and PHP.
-I’ve designed migration solutions from legacy codebases and monolithic architectures to modern AWS serverless architectures. Infrastructure-as-Code (CloudFormation and CDK) and automation are at the core.
-My development practices encompass OOP, MVC, Design Patterns, DDD, ORM, Migrations, Unit Tests, Queues, CLI, and REPL.
-Through self-education and a non-conventional career path, I have cultivated a unique approach to problem-solving. When conventional technology literature proves inadequate, I embrace an unconventional mindset, actively seeking innovative solutions and embracing novel challenges.
-I'm a team player, active listener, eager to learn, and happy to share knowledge, always supportive of others. I adopt and promote Agile methodologies, SCRUM ceremonies, and XP practices such as pair programming and mob programming.
-I adhere daily to principles like LESS IS MORE, K.I.S.S., SOLID, DRY, YAGNI, Clean Code, and 12-Factor App, applying them even in small areas.
-Day-to-day work tools: GIT (with GIT-FLOW branching or TRUNK-based development), Docker, VSCode, Xcode, and Vim.
-Born and raised in Forlì, Italy, I currently reside in Ravenna. As a devoted father of two beautiful daughters, I am fortunate to have them living independently. While I am currently employed in a fulfilling position, I approach the future with optimism and a keen interest in new opportunities.
-No individual is flawless, including myself. My primary objective is to maintain focus on my objectives and cultivate the requisite composure to attain them, even in the face of demanding deadlines.
+# Massimo Selvi
+
+## LinkedIn Headline
+
+Cloud Architect · AWS Serverless · AI-augmented SDLC | Tech Advisor & EM @ f.technology | Open to senior roles & freelance
+
+## LinkedIn About
+
+🚀 **IT Engineer · Cloud Architect · Tech Advisor** — 20+ years of full-stack experience, 10+ within international teams. I design and scale **AWS Serverless** systems specializing in **Event-Driven Architecture (EDA)**, microservices, and modular monoliths. Core stack: **22 years PHP** (13 with Laravel), **8 years Node.js / 7 years TypeScript** (NestJS, ElysiaJS/Bun), 7 years managing multi-account cloud infrastructures.
+
+💼 **Strategic Leadership & Engineering Growth**
+Currently **Tech Advisor to the Board of Directors** at *f.technology – Technology Made Easy*, I bridge business strategy with technical execution. As **Engineering Manager**, I drive team growth, mentorship, and engineering culture — with a focused mandate on **AI-augmented SDLC adoption** and aligning teams with the evolving landscape of AI-assisted development.
+
+⚡ **Developer Experience & AI Enablement**
+Strong advocate for **Spec-Driven Development**, **TDD**, **DX**, and living documentation through **ADRs and RFCs** — keeping architectural decisions transparent and traceable. I actively guide engineering teams to adopt **AI-assisted coding tools** in a structured, governed way — maximizing developer velocity while maintaining architectural integrity. I design monorepo architectures (TurboRepo, Nx, pnpm workspaces) that scale across distributed teams.
+
+🏗️ **R&D, Cloud & Automation**
+Proven track record of migrating legacy systems to modern **AWS Serverless** environments using **Infrastructure-as-Code (CDK/CloudFormation)** and resilient **GitHub Actions** CI/CD pipelines. Languages: TypeScript, Go, Swift, PHP.
+
+🧭 **Engineering Philosophy**
+Grounded in **OOP, Dependency Injection, Design Patterns, and DDD**. Self-taught and unconventional — I find solutions where standard playbooks fall short. Servant leader: empathy, active listening, pair/mob programming. **C1/C2 English**.
+
+📐 Daily principles: **K.I.S.S. · SOLID · DRY · YAGNI · Clean Code · 12-Factor App**
+
+🛠️ **Core Toolset:**
+▪️ VCS/CI: Git (Git-Flow/Trunk), GitHub Actions
+▪️ Dev: Docker, TurboRepo, Nx, VSCode, Xcode, Vim
+
+🇮🇹 Based in Ravenna, Italy — devoted father of two. Open to senior roles and freelance engagements in cloud architecture, serverless systems, and engineering leadership.

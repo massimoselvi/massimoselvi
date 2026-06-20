@@ -1,5 +1,6 @@
-.DS_STORE
-tmp
-
 dist
 build
+.DS_Store
+
+tmp
+.private-notes/
