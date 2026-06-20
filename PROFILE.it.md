@@ -2,7 +2,7 @@
 
 ## LinkedIn - Informazioni
 
-🚀 **IT Engineer · Cloud Architect · Tech Advisor** — oltre 20 anni di esperienza full-stack, 10+ in team internazionali. Progetto e scala sistemi **AWS Serverless** specializzandomi in **Event-Driven Architecture (EDA)**, microservizi e monoliti modulari. Stack principale: **13 anni con Laravel/PHP**, **9 anni con NodeJS/TypeScript** (NestJS, ElysiaJS/Bun), 7 anni di gestione di infrastrutture cloud multi-account.
+🚀 **IT Engineer · Cloud Architect · Tech Advisor** — oltre 20 anni di esperienza full-stack, 10+ in team internazionali. Progetto e scala sistemi **AWS Serverless** specializzandomi in **Event-Driven Architecture (EDA)**, microservizi e monoliti modulari. Stack principale: **22 anni di PHP** (13 con Laravel), **8 anni con Node.js / 7 anni con TypeScript** (NestJS, ElysiaJS/Bun), 7 anni di gestione di infrastrutture cloud multi-account.
 
 💼 **Leadership Strategica e Crescita del Team**
 Attualmente **Tech Advisor per il Consiglio di Amministrazione** di *f.technology – Technology Made Easy*, faccio da ponte tra strategia di business ed esecuzione tecnica. Come **Engineering Manager**, guido la crescita del team, il mentoring e la cultura ingegneristica — con un mandato preciso sull'**adozione dell'AI-augmented SDLC** e sull'allineamento dei team con l'evoluzione degli strumenti di sviluppo AI.

@@ -2,13 +2,13 @@
 
 **Cloud Architect · AWS Serverless · AI-Augmented SDLC**
 
-Cloud Architect based in Ravenna, Italy. I design and lead delivery of AWS serverless systems — event-driven architectures, IaC with CDK, and the migration patterns that take 13 years of Laravel/PHP into a serverless-first world.
+Cloud Architect based in Ravenna, Italy. I design and lead delivery of AWS serverless systems — event-driven architectures, IaC with CDK, and the migration patterns that take 22 years of PHP (13 with Laravel) into a serverless-first world.
 
 Currently leading AI-augmented SDLC adoption at f.technology — building the governance, prompt patterns, and tooling that let engineering teams adopt AI responsibly at scale.
 
 🔭 **Current focus:** AI-augmented SDLC — structured AI adoption for engineering teams (prompt patterns, governance, tool evaluation)
 
-🌱 **Background:** 18 years PHP, 13 years Laravel, 8 years AWS-centric serverless architecture
+🌱 **Background:** 22 years PHP, 13 years Laravel, 8 years AWS-centric serverless architecture
 
 ---
 

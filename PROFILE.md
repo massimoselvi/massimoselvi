@@ -6,7 +6,7 @@ Cloud Architect · AWS Serverless · AI-augmented SDLC | Tech Advisor & EM @ f.t
 
 ## LinkedIn About
 
-🚀 **IT Engineer · Cloud Architect · Tech Advisor** — 20+ years of full-stack experience, 10+ within international teams. I design and scale **AWS Serverless** systems specializing in **Event-Driven Architecture (EDA)**, microservices, and modular monoliths. Core stack: **13 years Laravel/PHP**, **9 years NodeJS/TypeScript** (NestJS, ElysiaJS/Bun), 7 years managing multi-account cloud infrastructures.
+🚀 **IT Engineer · Cloud Architect · Tech Advisor** — 20+ years of full-stack experience, 10+ within international teams. I design and scale **AWS Serverless** systems specializing in **Event-Driven Architecture (EDA)**, microservices, and modular monoliths. Core stack: **22 years PHP** (13 with Laravel), **8 years Node.js / 7 years TypeScript** (NestJS, ElysiaJS/Bun), 7 years managing multi-account cloud infrastructures.
 
 💼 **Strategic Leadership & Engineering Growth**
 Currently **Tech Advisor to the Board of Directors** at *f.technology – Technology Made Easy*, I bridge business strategy with technical execution. As **Engineering Manager**, I drive team growth, mentorship, and engineering culture — with a focused mandate on **AI-augmented SDLC adoption** and aligning teams with the evolving landscape of AI-assisted development.
