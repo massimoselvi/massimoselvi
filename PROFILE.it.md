@@ -7,8 +7,8 @@
 💼 **Leadership Strategica e Crescita del Team**
 Attualmente **Tech Advisor per il Consiglio di Amministrazione** di *f.technology – Technology Made Easy*, faccio da ponte tra strategia di business ed esecuzione tecnica. Come **Engineering Manager**, guido la crescita del team, il mentoring e la cultura ingegneristica — con un mandato preciso sull'**adozione dell'AI-augmented SDLC** e sull'allineamento dei team con l'evoluzione degli strumenti di sviluppo AI.
 
-⚡ **Developer Experience e Qualità Ingegneristica**
-Sostenitore del **TDD**, della **DX** e della documentazione viva tramite **ADR e RFC** — mantenendo le decisioni architetturali trasparenti, tracciabili e allineate con il codebase. Progetto architetture monorepo (TurboRepo, Nx, pnpm workspaces) che scalano su team distribuiti.
+⚡ **Developer Experience & AI Enablement**
+Sostenitore del **TDD**, della **DX** e della documentazione viva tramite **ADR e RFC** — mantenendo le decisioni architetturali trasparenti e tracciabili. Guido attivamente i team nell'adozione di **strumenti di coding assistiti dall'AI** in modo strutturato e governato — massimizzando la developer velocity nel rispetto dell'integrità architetturale. Progetto architetture monorepo (TurboRepo, Nx, pnpm workspaces) che scalano su team distribuiti.
 
 🏗️ **R&D, Cloud & Automation**
 Track record comprovato nella migrazione di sistemi legacy verso ambienti **AWS Serverless** moderni tramite **Infrastructure-as-Code (CDK/CloudFormation)** e pipeline CI/CD resilienti con **GitHub Actions**. Linguaggi: TypeScript, Go, Swift, PHP.
