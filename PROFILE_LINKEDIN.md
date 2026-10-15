@@ -1,21 +1,31 @@
-🚀 IT Engineer · Cloud Architect · Tech Advisor — 20+ years of full-stack experience, 10+ within international teams. I design and scale AWS Serverless systems specializing in Event-Driven Architecture (EDA), microservices, and modular monoliths. Core stack: 22 years PHP (13 with Laravel), 8 years Node.js / 7 years TypeScript (NestJS, ElysiaJS/Bun), 7 years managing multi-account cloud infrastructures.
+🚀 Engineering Manager · Cloud Architect — hands-on engineer since 1999, leading teams for ~5.5 years. I build AWS serverless, event-driven systems and the teams that run them.
 
-💼 Strategic Leadership & Engineering Growth
-Currently Tech Advisor at f.technology – Technology Made Easy, I bridge business strategy with technical execution. As Engineering Manager, I drive team growth, mentorship, and engineering culture — with a focused mandate on AI-augmented SDLC adoption and aligning teams with the evolving landscape of AI-assisted development. I operate in a paired Engineering Manager / Tech Lead model, splitting people leadership from technical ownership — a structure that keeps delivery accountable on both fronts and has sharpened how I think about role clarity in engineering orgs.
+Italian citizen, EU work authorisation, no sponsorship needed.
 
-⚡ Developer Experience & AI Enablement
-Strong advocate for Spec-Driven Development, TDD, DX, and living documentation through ADRs and RFCs — keeping architectural decisions transparent and traceable. I actively guide engineering teams to adopt AI-assisted coding tools in a structured, governed way — maximizing developer velocity while maintaining architectural integrity. I design monorepo architectures (TurboRepo, Nx, pnpm workspaces) that scale across distributed teams.
+• Currently EM at f.technology — 9 engineers, 8 direct reports on multiple clients projects
+• Before that: Interim CTO, TokyDigital — 22 months, founding mandate, team of 5
+• Years prior Head of Engineering, Cambiomarcia — joined a team of 3, grew it to 15 and re-platformed a Laravel monolith on two EC2 boxes into an event-driven AWS serverless system in Node.js with AppSync, DynamoDB and other AWS services.
 
-🏗️ R&D, Cloud & Automation
-Proven track record of migrating legacy systems to modern AWS Serverless environments using Infrastructure-as-Code (CDK/CloudFormation) and resilient GitHub Actions CI/CD pipelines. Languages: TypeScript, Go, Swift, PHP.
+I own hiring and performance. I personally hired  permanent engineers and selected contractors.
 
-🧭 Engineering Philosophy
-Grounded in OOP, Dependency Injection, Design Patterns, and DDD. Self-taught and unconventional — I find solutions where standard playbooks fall short. Servant leader: empathy, active listening, pair/mob programming. C1/C2 English.
+👥 PEOPLE
+Biweekly coaching, clear expectations, direct feedback. I engineer psychological safety: blameless post-mortems, written decisions open to challenge. I delegate ownership, not tasks. My test: if I am away for two weeks, can the team still tell what is approved, what is next and why?
 
-📐 Daily principles: K.I.S.S. · SOLID · DRY · YAGNI · Clean Code · 12-Factor App
+⚙️ HOW I RUN A TEAM
+Few non-negotiables, little process: trunk-based development, a 24-hour code-review SLA that critiques the code and never the author, ADRs and RFCs, go/no-go gates, scope changes via documented change requests. Product owns what and why. Tech Lead owns how. I own people and the operating model.
 
-🛠️ Core Toolset:
-▪️ VCS/CI: Git (Git-Flow/Trunk), GitHub Actions
-▪️ Dev: Docker, TurboRepo, Nx, VSCode, Xcode, Vim
+🏗️ TECHNICAL
+TypeScript and Node.js (NestJS, ElysiaJS/Bun) on AWS: serverless, microservices, modular monoliths. Also Go, Swift and 22 years of PHP (13 with Laravel). I still review PRs and pair on hard designs.
 
-🇮🇹 Based in Ravenna, Italy — devoted father of two. Open to senior roles and freelance engagements in cloud architecture, serverless systems, and engineering leadership.
+⚡ DX & AI: spec-driven development, TDD, living docs via ADRs and RFCs. I lead governed AI-assisted engineering without trading away architectural integrity. Monorepos with TurboRepo, Nx and pnpm workspaces.
+
+🏗️ R&D & Cloud: at Cambiomarcia I re-platformed a Laravel monolith on two EC2 instances into an SPA with AppSync GraphQL, DynamoDB, Cognito, Step Functions and SQS. CDK, CloudFormation and GitHub Actions CI/CD throughout.
+
+🧭 Philosophy: OOP, DI, design patterns, DDD. Self-taught and unconventional: I find solutions where standard playbooks fall short.
+
+📐 Principles: KISS · SOLID · DRY · YAGNI · Clean Code · 12-Factor
+🛠️ Toolset: Git (trunk), GitHub Actions, Docker, TurboRepo, Nx, VSCode, Xcode, Vim
+
+🎯 Looking for a permanent engineering leadership role. Remote across EMEA preferred; open to relocating to the UK, Germany, the Netherlands, Nordics, Portugal and Spain.
+
+🇮🇹 Ravenna, Italy · C1/C2 English · Transformational and Servant leader · Father of two
