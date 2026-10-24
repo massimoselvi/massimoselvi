@@ -2,7 +2,7 @@
 
 ## LinkedIn Headline
 
-Cloud Architect · AWS Serverless · AI-augmented SDLC | Tech Advisor & EM @ f.technology | Open to senior roles & freelance
+Hands-on Cloud Architect & Engineering Leader | AWS, TypeScript, Serverless | Staff/Principal, Architect or Engineering Manager | Remote EMEA
 
 ## LinkedIn About
 
